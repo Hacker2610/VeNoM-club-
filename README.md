@@ -65,5 +65,5 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
 <body>
     <section class="main">
         <h1>Welcome to VeNoM club 💣</h1>
-        <a href="coding.html">Let's start</a>
+        <a href="venom.html">Let's start</a>
     </section>
